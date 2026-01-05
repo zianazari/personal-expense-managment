@@ -54,6 +54,8 @@
 git clone https://github.com/zianazari/personal-finance-managment.git
 cd personal-finance-managment
 
+# start database
+make initdb
 
 # on mac or linux
 make mac
